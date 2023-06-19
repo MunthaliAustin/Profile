@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MunthaliAustin
+- 👋 Hi, I’m @Austin Munthali
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning website desing and development
+- 🌱 I’m currently learning website design and development
 
